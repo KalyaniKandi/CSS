@@ -1,0 +1,20 @@
+/**format */
+
+#gulu{
+    float: left;
+    width: 150px;
+    height: 150px;
+}
+#gulu1{
+    float: right;
+    width: 150px;
+    height: 150px;
+}
+
+
+p {
+    width: 50%;
+    border: 2px solid red;
+    text-align: justify;
+    padding: 10px;
+}

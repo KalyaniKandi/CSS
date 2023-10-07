@@ -1,0 +1,28 @@
+/**(@format*/
+div{
+    margin-left: 100px;
+    background-image: linear-gradient(green,pink);
+    height: 150px;
+    width: 150px;
+}
+div:hover{
+   /** transform: translateX(50px);*/
+    /** transform: translateY(50px);*/
+    /** transform: translate(10px,100px);*/
+    
+
+    /**transform: scaleX(2);*/
+   /** transform: scaleY(2);*/
+    /**transform: scale(1.5,2);*/
+   /** transform: scale(0.5,2);*/
+
+  /** transform: skewX(30deg);*/
+  /**transform: skewY(30deg);*/
+  /**transform: skew( 40deg,30deg);*/
+
+   
+     transform: rotate(50deg);
+
+
+
+}

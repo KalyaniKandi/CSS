@@ -1,0 +1,20 @@
+/** @format*/
+    
+
+a {
+    display:block;
+    padding: 10px;
+
+}
+a:visited{
+    color: chartreuse;
+}
+a:link{
+    color: brown;
+}
+a:hover{
+    color: aqua;
+}
+a:acctive{
+    color: rgb(255, 0, 153);
+}

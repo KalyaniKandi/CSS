@@ -1,0 +1,14 @@
+/* format*/
+
+.box{
+    background-color: lime;
+    height: 200px;
+    width: 300px;
+    /*overflow: visible;*/
+    overflow: hidden;
+   /*overflow: auto;*/
+   /*overflow: scroll;*/
+   /*overflow-x: hidden;*/
+   /*overflow-y: hidden;*/
+
+}

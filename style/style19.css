@@ -1,0 +1,7 @@
+bady {
+   /* background-color: url("/image/5.jpg"),red;
+    background-color: url("/image/5.jpg"),red,blue;*/
+    background-color: url("/image/5.jpg"),url("/image/6.jpg");
+    background-size: cover;
+    background-blend-mode: luminosity;
+}

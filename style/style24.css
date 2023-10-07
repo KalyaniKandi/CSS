@@ -1,0 +1,23 @@
+/**@format*/
+div{
+    height: 200px;
+    width: 200px;
+    float: left;
+} 
+
+
+.id1{
+    background-color: rgb(255, 0, 0);
+    
+}
+.id2{
+    background-color: rgb(27, 201, 82);
+    
+}
+.id3{
+    background-color: rgb(98, 0, 255);
+    /**float: right;**/
+   /** clear: right;*/
+    /**float: left;*/
+
+}

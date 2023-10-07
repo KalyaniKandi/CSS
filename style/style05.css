@@ -1,0 +1,23 @@
+ /*desendent selector*/
+
+ /*.c1  p{
+    background-color: chartreuse;
+}*/
+
+/*child selector*/
+
+/* div > p{
+    background-color: cyan;
+}*/
+
+ /*general sibiling selector */
+
+   /*p ~ h2{
+    background-color: chartreuse;
+}*/
+
+ /*adjencent sibling selector*/
+
+  /*p + h1{
+     background-color: brown;
+ }*/

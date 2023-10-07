@@ -1,0 +1,17 @@
+.c1{
+    height: 400px;
+    width: 600px;
+    background-color: cyan;
+    font-size:25px ;
+    color: darkred;
+    padding: 30px;
+    border: 20px dotted rgb(202, 22, 46);
+    background-color: blueviolet;
+    background-size: contain;
+    background-repeat: no-repeat;
+   background-color: border-box;
+  /* background-clip: border-box;*/
+    /* background-clip: padding-box;*/
+     background-clip: content-box;
+   
+  }

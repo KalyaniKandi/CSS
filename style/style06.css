@@ -1,0 +1,19 @@
+p{
+    background-color: crimson !important;
+}
+
+div p{
+    background-color: aqua  ;
+}
+
+div > p{
+    background-color: chocolate;
+}
+
+ .c1{
+    background-color: rgb(47, 0, 255);
+}
+
+#id1{
+    background-color: deepskyblue;
+}

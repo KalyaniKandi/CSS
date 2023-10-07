@@ -1,0 +1,35 @@
+/** @format*/
+   * {
+    margin: 0px;
+    padding: 0px;
+   }
+  /** h2{
+    background-color: firebrick;
+}
+   .parent-box{
+   font-size: 40px;
+}
+  .child-box{
+    font-size: 0.5em;
+  }
+  .grand-child{
+    font-size: 0.5em;
+  }*/
+
+  /**html{
+    font-size: 50px;
+  }
+  #rp1{
+    font-size: 1rem;
+  }*/
+
+  /**.box{
+    background-color: dodgerblue;
+    height: 50vh;
+    width: 20%;
+  }*/
+
+.box1{
+    background-color: crimson;
+    width: 50vw;
+}

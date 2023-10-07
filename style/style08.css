@@ -1,0 +1,18 @@
+.c1{
+    height: 400px;
+    width: 600px;
+    background-color: cyan;
+    font-size:25px ;
+    color: darkred;
+    padding: 30px;
+    border: 20px dotted rgb(202, 22, 46);
+    background-image: url("/image/1.jfif");
+    /*background-size: cover;*/
+    background-size: contain;
+    background-repeat: no-repeat;
+    /*background-origin: content-box;*/
+   /* background-origin: padding-box;*/
+   background-origin: border-box;
+   
+  }
+  

@@ -1,0 +1,22 @@
+/** @format*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.leftsidebar{
+ background-color: deeppink;
+ height: 250px;
+ width: 30%;
+ float: left;
+}
+.rightsidebar{
+    background-color: rgb(47, 20, 255);
+    height: 100px;
+    width: 70%;
+    float: right;
+   }
+   .footer {
+    background-color: greenyellow;
+    clear:left;
+   }
